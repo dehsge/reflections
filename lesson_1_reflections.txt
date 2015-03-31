@@ -1,0 +1,21 @@
+it automated the process of being to check code, and change code. It helped me reduce mistakes. It also helped me to open sublime with the terminal, which is cool.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+spend more time programming and less time fixing mistakes. Just makes the process more effecent, and elimanates human error.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+files are often related, where one effects the other. A linear change would only effect one file. If two people are working on multipule files, both files would need to be updated with the same code or related code. therefore, saving files as sets lets all changes at some time be measured. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+You use git log to view history. q to exit git log. use the git diff command to view changes between git ids. versions are distingished by commit names and their hash ids
+
+How might using version control make you more confident to make changes that could break something?
+
+Allows for more control in debugging. reduces human error and the ability to find human error.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+To control my work, to reduce errors, share content and debug.
